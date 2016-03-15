@@ -1,0 +1,94 @@
+/*
+Project Name: Portfolio
+Client: Joe Johnson
+Author: Justin Harvey
+Developer @GA in LA
+*/
+
+
+
+title {
+  color: black;
+  text-align: center;
+}
+
+body {
+	background-color: #F8F8FF;
+	font-family: serif;
+}
+
+ #container  nav {
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold; 
+	padding: 10px;
+  color: black;
+  margin: 40px;
+}
+
+#container a {
+  margin-bottom: 0;
+}
+
+ #container h1 {
+  font-size: 35px;
+  color: black;
+	font-weight: bold;
+  text-align: center;
+  padding-top: 0;
+}
+
+
+ #container-2 h2 {
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+}
+
+ #container-2 img {	
+	padding: 1px;
+  float: right;
+	border: solid;
+  text-align: center;
+}
+
+#container-2 p {
+	font-size: 18px;
+  font-weight: 400px
+	text-align: left;
+}
+
+#container-3 {
+	font-size: 20px;
+	text-align: center;
+}
+
+#container-3 a {
+  color: black;
+}
+
+.line-1 {
+	
+	background-color: black;
+	border: solid;
+  margin: 35px;
+}
+
+.line-2 {
+	background-color: black;
+}
+
+
+.line-3 {
+	
+	background-color: black;
+
+}
+
+.line-4 {
+  border: solid;
+	background-color: black;
+  margin: 35px;
+}
+
